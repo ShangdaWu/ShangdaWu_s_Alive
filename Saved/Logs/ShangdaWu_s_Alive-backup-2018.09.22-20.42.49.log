@@ -1,0 +1,1643 @@
+﻿Log file open, 09/22/18 19:36:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ShangdaWu_s_Alive
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2129427524) SRandInit(2129427525).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.233062
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.851s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Alice (192.168.0.100:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: E:/UE/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.22-11.36.49:531][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.22-11.36.49:531][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.22-11.36.49:575][  0]LogInit: Computer: ALICE
+[2018.09.22-11.36.49:575][  0]LogInit: User: Administrator
+[2018.09.22-11.36.49:575][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.22-11.36.49:575][  0]LogInit: High frequency timer resolution =2.939278 MHz
+[2018.09.22-11.36.49:575][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.09.22-11.36.49:575][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.22-11.36.49:575][  0]LogMemory: Process Physical Memory: 292.92 MB used, 292.92 MB peak
+[2018.09.22-11.36.49:575][  0]LogMemory: Process Virtual Memory: 285.32 MB used, 285.32 MB peak
+[2018.09.22-11.36.49:575][  0]LogMemory: Physical Memory: 6504.78 MB used,  1654.36 MB free, 8159.14 MB total
+[2018.09.22-11.36.49:575][  0]LogMemory: Virtual Memory: 670.55 MB used,  1654.36 MB free, 134217728.00 MB total
+[2018.09.22-11.36.49:639][  0]LogInit: Overriding language with editor culture configuration option (en).
+[2018.09.22-11.36.49:639][  0]LogInit: Overriding locale with editor culture configuration option (en).
+[2018.09.22-11.36.50:389][  0]LogStreaming: Display: Took  0.750s to EndInitTextLocalization.
+[2018.09.22-11.36.50:390][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.22-11.36.50:589][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.22-11.36.50:589][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.22-11.36.51:112][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.22-11.36.51:137][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R7 370 Series' (Feature Level 11_0)
+[2018.09.22-11.36.51:137][  0]LogD3D11RHI:       2028/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.09.22-11.36.51:140][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.22-11.36.51:140][  0]LogD3D11RHI:       0/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.22-11.36.51:140][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.22-11.36.51:146][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.22-11.36.51:146][  0]LogD3D11RHI:     GPU DeviceId: 0x6811 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.22-11.36.51:146][  0]LogWindows: EnumDisplayDevices:
+[2018.09.22-11.36.51:146][  0]LogWindows:    0. 'AMD Radeon (TM) R7 370 Series' (P:1 D:1)
+[2018.09.22-11.36.51:148][  0]LogWindows:    1. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.09.22-11.36.51:149][  0]LogWindows:    2. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.09.22-11.36.51:150][  0]LogWindows:    3. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.09.22-11.36.51:151][  0]LogWindows:    4. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.09.22-11.36.51:152][  0]LogWindows:    5. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.09.22-11.36.51:153][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.09.22-11.36.51:153][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R7 370 Series
+[2018.09.22-11.36.51:153][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.8.1 (internal:24.20.13001.1010, unified:24.20.13001.1010)
+[2018.09.22-11.36.51:153][  0]LogD3D11RHI:      Driver Date: 8-2-2018
+[2018.09.22-11.36.51:153][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.09.22-11.36.51:195][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.22-11.36.51:207][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.09.22-11.36.51:209][  0]LogShaderCompilers: Guid format shader working directory is 24 characters bigger than the processId version (../../../../ShangdaWu_s_Alive/Intermediate/Shaders/WorkingDirectory/12468/).
+[2018.09.22-11.36.51:209][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/4D714168425526381FDAF2A69223EB8A/'.
+[2018.09.22-11.36.51:759][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.22-11.36.51:783][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.22-11.36.51:805][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.22-11.36.51:828][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.22-11.36.51:853][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.22-11.36.51:875][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.22-11.36.51:896][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.22-11.36.51:916][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.22-11.36.51:927][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.22-11.36.51:945][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.22-11.36.51:967][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.22-11.36.51:989][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.22-11.36.52:008][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.09.22-11.36.52:027][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.22-11.36.52:048][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.22-11.36.52:088][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.22-11.36.52:088][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.22-11.36.52:106][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-11.36.52:110][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.22-11.36.52:156][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.22-11.36.52:173][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.22-11.36.52:192][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.22-11.36.52:210][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.22-11.36.52:228][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.22-11.36.52:248][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.22-11.36.52:248][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.22-11.36.52:449][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.22-11.36.52:449][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.22-11.36.52:449][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.22-11.36.53:613][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.22-11.36.53:721][  0]LogDerivedDataCache: Loaded boot cache 0.11s 74MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.22-11.36.53:721][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.22-11.36.53:721][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../ShangdaWu_s_Alive/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.22-11.36.53:721][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.22-11.36.53:721][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../ShangdaWu_s_Alive/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.22-11.36.53:721][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.22-11.36.53:744][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.22-11.36.53:761][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.22-11.36.53:761][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.22-11.36.53:761][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.22-11.36.53:778][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.22-11.36.53:778][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.22-11.36.53:779][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.22-11.36.53:779][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.22-11.36.54:007][  0]LogAssetRegistry: FAssetRegistry took 0.0291 seconds to start up
+[2018.09.22-11.36.54:510][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.22-11.36.54:614][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.22-11.36.54:619][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.22-11.36.54:619][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.22-11.36.54:619][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.22-11.36.54:619][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.22-11.36.54:619][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.22-11.36.54:777][  0]LogNetVersion: ShangdaWu_s_Alive , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3751359723)
+[2018.09.22-11.36.55:358][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.068914 seconds
+[2018.09.22-11.36.55:366][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.09.22-11.36.55:366][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.09.22-11.36.55:366][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.22-11.36.57:732][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.22-11.36.57:787][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.22-11.36.58:333][  0]SourceControl: Source control is disabled
+[2018.09.22-11.36.58:333][  0]SourceControl: Source control is disabled
+[2018.09.22-11.36.58:366][  0]SourceControl: Source control is disabled
+[2018.09.22-11.36.58:397][  0]SourceControl: Source control is disabled
+[2018.09.22-11.36.59:169][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.22-11.36.59:543][  0]LogOcInput: OculusInput pre-init called
+[2018.09.22-11.36.59:709][  0]LogEngine: Initializing Engine...
+[2018.09.22-11.36.59:713][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.22-11.36.59:714][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.22-11.36.59:714][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.22-11.37.00:030][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.22-11.37.00:102][  0]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-11.37.00:127][  0]LogInit: FAudioDevice initialized.
+[2018.09.22-11.37.00:261][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.22-11.37.00:277][  0]LogInit: Texture streaming: Enabled
+[2018.09.22-11.37.00:303][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.22-11.37.00:322][  0]LogInit: Transaction tracking system initialized
+[2018.09.22-11.37.00:364][  0]BlueprintLog: New page: Editor Load
+[2018.09.22-11.37.00:562][  0]LocalizationService: Localization service is disabled
+[2018.09.22-11.37.00:740][  0]LogConsoleResponse: Display: 
+[2018.09.22-11.37.00:934][  0]LogFileCache: Scanning file cache for directory 'E:/UE/ShangdaWu_s_Alive/Content/' took 0.01s
+[2018.09.22-11.37.00:934][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.22-11.37.00:934][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.22-11.37.00:934][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.22-11.37.00:934][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.22-11.37.00:934][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.22-11.37.01:559][  0]SourceControl: Source control is disabled
+[2018.09.22-11.37.01:559][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.22-11.37.01:559][  0]LightingResults: New page: Lighting Build
+[2018.09.22-11.37.01:563][  0]MapCheck: New page: Map Check
+[2018.09.22-11.37.01:563][  0]LightingResults: New page: Lighting Build
+[2018.09.22-11.37.01:852][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.09.22-11.37.01:861][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.22-11.37.01:878][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.22-11.37.01:969][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 90.866ms to complete.
+[2018.09.22-11.37.01:969][  0]LogFileHelpers: Loading map 'Template_Default' took 0.410
+[2018.09.22-11.37.02:161][  0]LogCollectionManager: Loaded 0 collections in 0.001827 seconds
+[2018.09.22-11.37.02:209][  0]LogFileCache: Scanning file cache for directory 'E:/UE/ShangdaWu_s_Alive/Saved/Collections/' took 0.01s
+[2018.09.22-11.37.02:209][  0]LogFileCache: Scanning file cache for directory 'E:/UE/ShangdaWu_s_Alive/Content/Developers/Administrator/Collections/' took 0.01s
+[2018.09.22-11.37.02:209][  0]LogFileCache: Scanning file cache for directory 'E:/UE/ShangdaWu_s_Alive/Content/Collections/' took 0.01s
+[2018.09.22-11.37.02:209][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.22-11.37.02:221][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2452 classes and 558 folders.
+[2018.09.22-11.37.02:230][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.22-11.37.02:789][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.22-11.37.02:796][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.22-11.37.02:817][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.22-11.37.02:820][  0]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.22-11.37.02:861][  0]LogSlate: Took 0.033726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.22-11.37.03:005][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.22-11.37.03:270][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.22-11.37.03:270][  0]LogLoad: (Engine Initialization) Total time: 19.01 seconds
+[2018.09.22-11.37.03:270][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.22-11.37.03:640][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.22-11.37.03:959][  1]LogAssetRegistry: Asset discovery search completed in 9.9752 seconds
+[2018.09.22-11.37.03:961][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.22-11.37.03:961][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2018.09.22-11.37.15:003][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-11.37.25:795][759]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.22-11.37.26:205][761]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ShangdaWusAlive
+[2018.09.22-11.37.26:205][761]LogTemp: CWD: E:\UE\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.22-11.37.26:205][761]LogTemp: Initial Dir: E:\UE\UE_4.19
+[2018.09.22-11.37.26:205][761]LogTemp: Env CWD: E:\UE\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.22-11.37.26:205][761]LogTemp: BranchPath = ALICE/E/UE/UE_4.19/Engine/Binaries --- GameBranchPath = ALICE/E/UE/UE_4.19/Engine/Binaries
+[2018.09.22-11.37.26:387][764]LogTemp: MATCHED-Provision:,File:,Cert:
+[2018.09.22-11.39.09:690][625]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.22-11.39.09:697][625]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.22-11.39.30:737][574]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.22-11.39.30:743][574]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.22-11.39.33:015][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-11.39.33:053][811]PIE: New page: PIE session: Untitled_1 (Sep 23, 2018, 3:39:33 AM)
+[2018.09.22-11.39.33:053][811]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.09.22-11.39.33:057][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004003s)
+[2018.09.22-11.39.33:058][811]LogAIModule: Creating AISystem for world Untitled_1
+[2018.09.22-11.39.33:058][811]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2018.09.22-11.39.33:058][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005244s)
+[2018.09.22-11.39.33:128][811]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-11.39.33:152][811]LogInit: FAudioDevice initialized.
+[2018.09.22-11.39.33:218][811]LogLoad: Game class is 'GameModeBase'
+[2018.09.22-11.39.33:301][811]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.09.22-19.39.33
+[2018.09.22-11.39.33:301][811]LogWorld: Bringing up level for play took: 0.000937
+[2018.09.22-11.39.33:325][811]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.09.22-11.39.33:360][811]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.406
+[2018.09.22-11.39.33:399][811]LogRenderer: Reallocating scene render targets to support 1612x936 Format 10 NumSamples 1 (Frame:1).
+[2018.09.22-11.39.39:636][142]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-11.40.03:408][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.40.14:980][654]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.22-11.40.23:758][630]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.22-11.40.27:886][630]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.22-11.40.32:973][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.22-11.40.35:523][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.40.36:967][385]LogSlate: Took 0.023267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.22-11.41.28:378][835]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.22-11.41.28:546][836]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ShangdaWusAlive
+[2018.09.22-11.41.28:546][836]LogTemp: CWD: E:\UE\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.22-11.41.28:546][836]LogTemp: Initial Dir: E:\UE\UE_4.19
+[2018.09.22-11.41.28:547][836]LogTemp: Env CWD: E:\UE\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.22-11.41.28:547][836]LogTemp: BranchPath = ALICE/E/UE/UE_4.19/Engine/Binaries --- GameBranchPath = ALICE/E/UE/UE_4.19/Engine/Binaries
+[2018.09.22-11.41.28:646][837]LogTemp: MATCHED-Provision:,File:,Cert:
+[2018.09.22-11.42.16:737][231]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.22-11.42.20:580][448]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.09.22-11.42.21:083][448]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b07857988, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.22-11.42.21:084][448]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b07857980, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.22-11.42.24:695][592]LogSlate: Window 'NewBlueprint*' being destroyed
+[2018.09.22-11.42.24:702][592]LogSlate: Window 'NewBlueprint*' being destroyed
+[2018.09.22-11.42.28:850][867]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.22-11.43.18:502][499]LogMetaData: Removing '/Game/GameMode/Alive_GameMode.Alive_GameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameMode/NewBlueprint.PackageMetaData'
+[2018.09.22-11.43.18:502][499]LogMetaData: Removing '/Game/GameMode/Alive_GameMode.SKEL_Alive_GameMode_C' ref from Metadata '/Game/GameMode/NewBlueprint.PackageMetaData'
+[2018.09.22-11.43.18:502][499]LogMetaData: Removing '/Game/GameMode/Alive_GameMode.Alive_GameMode_C' ref from Metadata '/Game/GameMode/NewBlueprint.PackageMetaData'
+[2018.09.22-11.43.18:503][499]LogMetaData: Removing '/Game/GameMode/Alive_GameMode.Alive_GameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GameMode/NewBlueprint.PackageMetaData'
+[2018.09.22-11.43.18:503][499]LogMetaData: Removing '/Game/GameMode/Alive_GameMode.Alive_GameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GameMode/NewBlueprint.PackageMetaData'
+[2018.09.22-11.43.18:528][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameMode" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameMode.uasset" SILENT=true
+[2018.09.22-11.43.18:579][499]LogSavePackage: Save=34.09ms
+[2018.09.22-11.43.18:579][499]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameMode22BEE58544AC9F6B130C74AAB2B7B0DE.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameMode.uasset'
+[2018.09.22-11.43.18:585][499]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameMode.uasset
+[2018.09.22-11.43.20:878][663]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.22-11.43.58:966][126]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.22-11.44.06:977][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_Pawn" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_Pawn.uasset" SILENT=true
+[2018.09.22-11.44.06:990][741]LogSavePackage: Save=8.93ms
+[2018.09.22-11.44.06:990][741]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_Pawn8E59415E4A5D925C79A55187DD1A2962.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_Pawn.uasset'
+[2018.09.22-11.44.06:996][741]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_Pawn.uasset
+[2018.09.22-11.44.07:866][804]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.22-11.44.25:566][192]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.22-11.44.31:408][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-11.44.31:420][637]LogSavePackage: Save=9.14ms
+[2018.09.22-11.44.31:420][637]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUD8D08E51943252324EB7ACCBC0C229764.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-11.44.31:427][637]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-11.44.32:222][693]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.22-11.44.38:933][ 17]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.22-11.44.57:098][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_PlayerController" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_PlayerController.uasset" SILENT=true
+[2018.09.22-11.44.57:111][435]LogSavePackage: Save=8.47ms
+[2018.09.22-11.44.57:111][435]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_PlayerControllerA7E91E024E6D6338A760DFAB46029FA8.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_PlayerController.uasset'
+[2018.09.22-11.44.57:117][435]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_PlayerController.uasset
+[2018.09.22-11.45.07:084][960]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.22-11.45.35:715][419]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.22-11.45.46:153][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameState" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameState.uasset" SILENT=true
+[2018.09.22-11.45.46:165][225]LogSavePackage: Save=8.12ms
+[2018.09.22-11.45.46:165][225]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameState924F78A44954A9A18B3690976BDAB622.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameState.uasset'
+[2018.09.22-11.45.46:170][225]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameState.uasset
+[2018.09.22-11.45.47:427][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameMode" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameMode.uasset" SILENT=true
+[2018.09.22-11.45.47:460][308]LogSavePackage: Save=26.49ms
+[2018.09.22-11.45.47:460][308]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameModeB11A85844DD0508274D1C1A6C69D4372.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameMode.uasset'
+[2018.09.22-11.45.47:467][308]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameMode.uasset
+[2018.09.22-11.45.51:627][493]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.22-11.46.04:273][399]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.22-11.46.04:415][399]LogLinker: Warning: Can't find file '/Game/GameMode/Alive_GameMode'
+[2018.09.22-11.46.04:416][399]LogLinker: Warning: Can't find file '/Game/GameMode/Alive_GameMode'
+[2018.09.22-11.46.04:416][399]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/GameMode/Alive_GameMode.Alive_GameMode_C'
+[2018.09.22-11.46.20:620][470]LogMetaData: Removing '/Game/GameMode/Alive_GameModeBase.Alive_GameModeBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameMode/NewBlueprint.PackageMetaData'
+[2018.09.22-11.46.20:620][470]LogMetaData: Removing '/Game/GameMode/Alive_GameModeBase.SKEL_Alive_GameModeBase_C' ref from Metadata '/Game/GameMode/NewBlueprint.PackageMetaData'
+[2018.09.22-11.46.20:620][470]LogMetaData: Removing '/Game/GameMode/Alive_GameModeBase.Alive_GameModeBase_C' ref from Metadata '/Game/GameMode/NewBlueprint.PackageMetaData'
+[2018.09.22-11.46.20:621][470]LogMetaData: Removing '/Game/GameMode/Alive_GameModeBase.Alive_GameModeBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GameMode/NewBlueprint.PackageMetaData'
+[2018.09.22-11.46.20:621][470]LogMetaData: Removing '/Game/GameMode/Alive_GameModeBase.Alive_GameModeBase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GameMode/NewBlueprint.PackageMetaData'
+[2018.09.22-11.46.20:639][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameModeBase" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset" SILENT=true
+[2018.09.22-11.46.20:650][470]LogSavePackage: Save=8.32ms
+[2018.09.22-11.46.20:650][470]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameModeBase3AE443A44CCE174252BB109AAC9D8726.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset'
+[2018.09.22-11.46.20:656][470]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset
+[2018.09.22-11.46.21:974][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameModeBase" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset" SILENT=true
+[2018.09.22-11.46.22:001][536]LogSavePackage: Save=19.85ms
+[2018.09.22-11.46.22:001][536]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameModeBaseED2BE1EF4FAA49EBB5B6AD9872B26021.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset'
+[2018.09.22-11.46.22:004][536]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset
+[2018.09.22-11.46.22:615][573]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.22-11.46.34:221][282]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.22-11.46.40:460][411]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.22-11.46.52:425][680]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.22-11.47.03:407][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_PlayerState" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_PlayerState.uasset" SILENT=true
+[2018.09.22-11.47.03:418][529]LogSavePackage: Save=8.23ms
+[2018.09.22-11.47.03:419][529]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_PlayerStateB3E4D1904B2C653CFD97A6884689181D.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_PlayerState.uasset'
+[2018.09.22-11.47.03:425][529]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_PlayerState.uasset
+[2018.09.22-11.47.05:469][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameModeBase" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset" SILENT=true
+[2018.09.22-11.47.05:502][676]LogSavePackage: Save=6.70ms
+[2018.09.22-11.47.05:502][676]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameModeBase69F3AE4F4B8ADAE339AF92BCBE3B7630.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset'
+[2018.09.22-11.47.05:509][676]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset
+[2018.09.22-11.47.07:553][827]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.22-11.47.21:829][196]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.22-11.47.31:734][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_Spectator" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_Spectator.uasset" SILENT=true
+[2018.09.22-11.47.31:747][956]LogSavePackage: Save=9.33ms
+[2018.09.22-11.47.31:747][956]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_Spectator3DFFE9B44B9541D103F032A82BE5D968.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_Spectator.uasset'
+[2018.09.22-11.47.31:753][956]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_Spectator.uasset
+[2018.09.22-11.47.33:241][ 66]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.22-11.47.37:620][399]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.22-11.47.37:632][399]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.22-11.47.55:092][477]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.22-11.47.55:236][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.47.55:291][477]LogSavePackage: Save=30.73ms
+[2018.09.22-11.47.55:291][477]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes851107144E040697E58D2CB05C1B35BB.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.47.55:294][477]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.47.55:315][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes_BuiltData" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset" SILENT=true
+[2018.09.22-11.47.55:342][477]LogSavePackage: Save=14.26ms
+[2018.09.22-11.47.55:342][477]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes_BuiltData2F051BF34CA8760AA0F745BD67BDD1F0.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset'
+[2018.09.22-11.47.55:344][477]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset
+[2018.09.22-11.47.55:351][477]LogFileHelpers: Saving map 'Scenes' took 0.239
+[2018.09.22-11.47.56:166][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.47.56:218][549]LogSavePackage: Save=24.40ms
+[2018.09.22-11.47.56:218][549]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes1E23E1714E4BECCE4EAD12A4F753E7E2.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.47.56:221][549]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.47.56:240][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes_BuiltData" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset" SILENT=true
+[2018.09.22-11.47.56:258][549]LogSavePackage: Save=10.81ms
+[2018.09.22-11.47.56:258][549]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes_BuiltData9DDD844D4E57B693D5271FBF4F1F82D3.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset'
+[2018.09.22-11.47.56:261][549]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset
+[2018.09.22-11.47.58:264][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameModeBase" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset" SILENT=true
+[2018.09.22-11.47.58:276][713]LogSavePackage: Save=6.76ms
+[2018.09.22-11.47.58:276][713]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameModeBaseEDE329894F4CF3A89DB4E5BA37BAD7CB.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset'
+[2018.09.22-11.47.58:283][713]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset
+[2018.09.22-11.48.21:932][ 93]LogSlate: Window 'Alive_PlayerController*' being destroyed
+[2018.09.22-11.48.21:938][ 93]LogSlate: Window 'Alive_PlayerController*' being destroyed
+[2018.09.22-11.48.22:703][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.48.22:751][154]LogSavePackage: Save=22.99ms
+[2018.09.22-11.48.22:752][154]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes0C90CADE494451F6E41DD39F7AE334E7.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.48.22:755][154]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.48.22:774][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes_BuiltData" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset" SILENT=true
+[2018.09.22-11.48.22:789][154]LogSavePackage: Save=10.47ms
+[2018.09.22-11.48.22:789][154]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes_BuiltDataB7891456469025FB0656A8BF593C34E6.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset'
+[2018.09.22-11.48.22:792][154]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset
+[2018.09.22-11.48.23:512][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_PlayerController" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_PlayerController.uasset" SILENT=true
+[2018.09.22-11.48.23:526][203]LogSavePackage: Save=6.87ms
+[2018.09.22-11.48.23:526][203]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_PlayerController054D1F0046BDC38143C1F0B63D15A4CC.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_PlayerController.uasset'
+[2018.09.22-11.48.23:533][203]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_PlayerController.uasset
+[2018.09.22-11.48.24:562][298]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-11.48.24:580][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-11.48.24:581][298]PIE: New page: PIE session: Scenes (Sep 23, 2018, 3:48:24 AM)
+[2018.09.22-11.48.24:581][298]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-11.48.24:583][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002655s)
+[2018.09.22-11.48.24:584][298]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-11.48.24:585][298]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2018.09.22-11.48.24:585][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.003897s)
+[2018.09.22-11.48.24:675][298]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-11.48.24:701][298]LogInit: FAudioDevice initialized.
+[2018.09.22-11.48.24:752][298]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-11.48.24:753][298]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-19.48.24
+[2018.09.22-11.48.24:754][298]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-11.48.24:754][298]LogWorld: Bringing up level for play took: 0.000930
+[2018.09.22-11.48.24:760][298]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes -0.194
+[2018.09.22-11.48.34:033][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.48.34:138][  6]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-11.48.39:523][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.48.39:571][474]LogSavePackage: Save=22.92ms
+[2018.09.22-11.48.39:571][474]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes68897114416C6825CFA4ADB1F610F289.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.48.39:574][474]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.48.39:591][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes_BuiltData" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset" SILENT=true
+[2018.09.22-11.48.39:607][474]LogSavePackage: Save=10.64ms
+[2018.09.22-11.48.39:607][474]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes_BuiltDataBC294A124B8CC737E4BF2A81C874309E.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset'
+[2018.09.22-11.48.39:610][474]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset
+[2018.09.22-11.48.45:394][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.22-11.48.46:405][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.22-11.48.46:790][274]Cmd: DELETE
+[2018.09.22-11.48.46:790][274]Cmd: ACTOR DELETE
+[2018.09.22-11.48.46:887][274]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.22-11.48.46:907][274]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.09.22-11.48.47:672][363]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.22-11.48.48:632][447]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.22-11.48.49:403][516]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.22-11.48.51:290][692]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.22-11.48.52:119][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.48.54:983][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.48.56:223][126]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-11.48.56:232][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-11.48.56:233][126]PIE: New page: PIE session: Scenes (Sep 23, 2018, 3:48:56 AM)
+[2018.09.22-11.48.56:233][126]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-11.48.56:235][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002372s)
+[2018.09.22-11.48.56:236][126]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-11.48.56:236][126]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2018.09.22-11.48.56:236][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.003521s)
+[2018.09.22-11.48.56:328][126]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-11.48.56:352][126]LogInit: FAudioDevice initialized.
+[2018.09.22-11.48.56:403][126]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-11.48.56:404][126]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-19.48.56
+[2018.09.22-11.48.56:404][126]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-11.48.56:404][126]LogWorld: Bringing up level for play took: 0.000790
+[2018.09.22-11.48.56:410][126]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes -0.543
+[2018.09.22-11.49.01:396][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.49.01:511][547]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-11.49.02:569][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.49.02:614][643]LogSavePackage: Save=22.11ms
+[2018.09.22-11.49.02:614][643]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes73F017CF45A15F5FCB4BCABFA54C9532.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.49.02:621][643]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.49.02:639][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes_BuiltData" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset" SILENT=true
+[2018.09.22-11.49.02:654][643]LogSavePackage: Save=10.60ms
+[2018.09.22-11.49.02:654][643]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes_BuiltData8B54FBDB4CE5502B21BA3C906D76157A.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset'
+[2018.09.22-11.49.02:657][643]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset
+[2018.09.22-11.49.08:111][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.49.08:158][245]LogSavePackage: Save=21.77ms
+[2018.09.22-11.49.08:158][245]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes7378C6E14D74F52C8460849C5B625C05.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.49.08:161][245]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.49.08:179][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes_BuiltData" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset" SILENT=true
+[2018.09.22-11.49.08:194][245]LogSavePackage: Save=10.15ms
+[2018.09.22-11.49.08:194][245]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes_BuiltData0D33EC7C4C137338B25451A35E559A69.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset'
+[2018.09.22-11.49.08:197][245]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset
+[2018.09.22-11.49.15:934][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.49.15:979][ 74]LogSavePackage: Save=21.92ms
+[2018.09.22-11.49.15:979][ 74]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/ScenesEA78876A451415788387B58DBFAC5083.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.49.15:982][ 74]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.49.16:000][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes_BuiltData" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset" SILENT=true
+[2018.09.22-11.49.16:015][ 74]LogSavePackage: Save=10.39ms
+[2018.09.22-11.49.16:015][ 74]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes_BuiltData7BCDCB3E46EFFDA785536DA4EFAA8E47.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset'
+[2018.09.22-11.49.16:018][ 74]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset
+[2018.09.22-11.49.25:984][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UI_Main" FILE="../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset" SILENT=true
+[2018.09.22-11.49.25:994][205]LogSavePackage: Save=7.17ms
+[2018.09.22-11.49.25:994][205]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/UI_Main3F888BF545292AB213492E90F2A22D41.tmp' to '../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset'
+[2018.09.22-11.49.26:000][205]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset
+[2018.09.22-11.49.29:885][586]LogSlate: Took 0.013142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.22-11.50.02:993][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UI_Main" FILE="../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset" SILENT=true
+[2018.09.22-11.50.03:005][467]LogSavePackage: Save=6.06ms
+[2018.09.22-11.50.03:005][467]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/UI_MainD9170031421E3DA7031BEAA38226EE4A.tmp' to '../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset'
+[2018.09.22-11.50.03:012][467]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset
+[2018.09.22-11.50.18:707][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UI_Main" FILE="../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset" SILENT=true
+[2018.09.22-11.50.18:718][400]LogSavePackage: Save=5.98ms
+[2018.09.22-11.50.18:718][400]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/UI_Main341D8C3145D89929EB7304ABEEBBD778.tmp' to '../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset'
+[2018.09.22-11.50.18:721][400]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset
+[2018.09.22-11.50.24:088][659]BlueprintLog: New page: Compile UI_Main
+[2018.09.22-11.50.30:257][936]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_47' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:258][936]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_49' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:260][936]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_51' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:287][937]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_53' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:290][937]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_55' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:309][938]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_57' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:329][939]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_59' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:349][940]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_61' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:367][941]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_63' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:370][941]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_65' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:391][942]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_67' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:410][943]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_69' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:430][944]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_71' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:450][945]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_73' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.30:470][946]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_75' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.09.22-11.50.32:742][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UI_Main" FILE="../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset" SILENT=true
+[2018.09.22-11.50.32:754][ 48]LogSavePackage: Save=6.96ms
+[2018.09.22-11.50.32:754][ 48]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/UI_Main9F87724E4B663F9AC0DD8E94262F5DF7.tmp' to '../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset'
+[2018.09.22-11.50.32:760][ 48]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset
+[2018.09.22-11.51.01:179][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UI_Main" FILE="../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset" SILENT=true
+[2018.09.22-11.51.01:191][441]LogSavePackage: Save=7.70ms
+[2018.09.22-11.51.01:191][441]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/UI_MainE3EB61A743EF61F6B7322AB37795705C.tmp' to '../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset'
+[2018.09.22-11.51.01:198][441]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset
+[2018.09.22-11.51.05:424][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UI_Main" FILE="../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset" SILENT=true
+[2018.09.22-11.51.05:437][701]LogSavePackage: Save=8.04ms
+[2018.09.22-11.51.05:437][701]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/UI_Main517BD1FA4E6ADE960906ED84B6869BDE.tmp' to '../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset'
+[2018.09.22-11.51.05:443][701]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset
+[2018.09.22-11.51.09:946][839]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b0afe3de8, Size=4, Default__SKEL_UI_Main_C Function /Game/UMG/UI_Main.SKEL_UI_Main_C:ExecuteUbergraph_UI_Main
+[2018.09.22-11.51.18:484][529]LogSlate: Took 0.065723 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.09.22-11.51.22:824][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UI_Main" FILE="../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset" SILENT=true
+[2018.09.22-11.51.22:841][842]LogSavePackage: Save=11.81ms
+[2018.09.22-11.51.22:841][842]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/UI_MainF96D61D7438C5ABC581498A76E362F59.tmp' to '../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset'
+[2018.09.22-11.51.22:847][842]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset
+[2018.09.22-11.51.26:480][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.51.26:530][221]LogSavePackage: Save=22.42ms
+[2018.09.22-11.51.26:530][221]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes2BCFFF60451F82A9C8A59EAAF4B6A377.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.51.26:533][221]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.51.26:552][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes_BuiltData" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset" SILENT=true
+[2018.09.22-11.51.26:568][221]LogSavePackage: Save=10.51ms
+[2018.09.22-11.51.26:568][221]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes_BuiltDataA40950CB4517906D48025EB717E2A1EF.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset'
+[2018.09.22-11.51.26:571][221]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset
+[2018.09.22-11.52.01:984][319]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.22-11.52.11:478][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-11.52.11:502][154]LogSavePackage: Save=17.52ms
+[2018.09.22-11.52.11:502][154]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUDD642121643E3C6C5522720B8B7A0F2E3.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-11.52.11:509][154]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-11.52.11:851][183]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-11.52.19:239][720]BlueprintLog: New page: Compile UI_Main
+[2018.09.22-11.52.19:242][720]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b0afe3de8, Size=4
+[2018.09.22-11.52.19:242][720]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b00f64cf8, Size=4, Default__SKEL_UI_Main_C Function /Engine/Transient.REINST_SKEL_UI_Main_C_11:ExecuteUbergraph_UI_Main
+[2018.09.22-11.52.19:246][720]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b00f65070, Size=4, Default__UI_Main_C Function /Game/UMG/UI_Main.UI_Main_C:ExecuteUbergraph_UI_Main
+[2018.09.22-11.52.19:267][720]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b00f64cf8, Size=4
+[2018.09.22-11.52.19:739][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UI_Main" FILE="../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset" SILENT=true
+[2018.09.22-11.52.19:763][750]LogSavePackage: Save=19.08ms
+[2018.09.22-11.52.19:763][750]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/UI_MainCC9D6BCF4173F40574BDD9A8158EC3D9.tmp' to '../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset'
+[2018.09.22-11.52.19:767][750]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset
+[2018.09.22-11.52.27:339][529]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-11.52.54:271][557]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.22-11.52.55:836][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-11.52.55:849][659]LogSavePackage: Save=7.83ms
+[2018.09.22-11.52.55:849][659]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUD59BB306748F230C87131D0A2D513D089.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-11.52.55:855][659]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-11.53.17:727][382]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b3195f9d8, Size=4, Default__SKEL_Alive_HUD_C Function /Game/GameMode/Alive_HUD.SKEL_Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.53.21:046][633]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b3195f9d8, Size=4
+[2018.09.22-11.53.21:046][633]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b34f5df30, Size=4, Default__SKEL_Alive_HUD_C Function /Engine/Transient.REINST_SKEL_Alive_HUD_C_62:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.53.21:048][633]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b34f5df20, Size=4, Default__SKEL_Alive_HUD_C Function /Game/GameMode/Alive_HUD.SKEL_Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.53.27:728][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-11.53.27:741][ 72]LogSavePackage: Save=8.43ms
+[2018.09.22-11.53.27:741][ 72]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUDC4B57DDA48543DB2C6831BBABCB0DF21.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-11.53.27:748][ 72]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-11.53.29:134][184]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-11.53.29:137][184]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b34f5df20, Size=4
+[2018.09.22-11.53.29:137][184]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b2d7c60e8, Size=4, Default__SKEL_Alive_HUD_C Function /Engine/Transient.REINST_SKEL_Alive_HUD_C_64:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.53.29:141][184]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b3269e310, Size=16, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.53.29:355][184]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b2d7c60e8, Size=4
+[2018.09.22-11.53.29:355][184]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b34f5df30, Size=4
+[2018.09.22-11.53.29:865][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-11.53.29:879][223]LogSavePackage: Save=9.81ms
+[2018.09.22-11.53.29:879][223]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUD6A8443094987A43072F90C9A4A19A89D.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-11.53.29:882][223]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-11.53.38:533][655]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-11.53.38:559][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-11.53.38:560][655]PIE: New page: PIE session: Scenes (Sep 23, 2018, 3:53:38 AM)
+[2018.09.22-11.53.38:560][655]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-11.53.38:562][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002546s)
+[2018.09.22-11.53.38:563][655]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-11.53.38:563][655]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.09.22-11.53.38:563][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.003624s)
+[2018.09.22-11.53.38:667][655]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-11.53.38:696][655]LogInit: FAudioDevice initialized.
+[2018.09.22-11.53.38:754][655]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-11.53.38:755][655]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-19.53.38
+[2018.09.22-11.53.38:756][655]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-11.53.38:756][655]LogWorld: Bringing up level for play took: 0.000799
+[2018.09.22-11.53.38:764][655]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes -0.19
+[2018.09.22-11.53.41:142][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.53.41:259][826]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-11.53.50:431][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-11.53.50:447][555]LogSavePackage: Save=9.94ms
+[2018.09.22-11.53.50:447][555]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUD640FE61C4C4090A65D2167990884EB12.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-11.53.50:454][555]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-11.53.51:784][655]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-11.53.51:790][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b3269e310, Size=16
+[2018.09.22-11.53.51:790][655]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b31828db0, Size=16, Default__Alive_HUD_C Function /Engine/Transient.REINST_Alive_HUD_C_70:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.53.51:791][655]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b2cb16b00, Size=24, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.53.52:710][711]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-11.53.52:726][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-11.53.52:726][711]PIE: New page: PIE session: Scenes (Sep 23, 2018, 3:53:52 AM)
+[2018.09.22-11.53.52:726][711]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-11.53.52:730][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003338s)
+[2018.09.22-11.53.52:731][711]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-11.53.52:731][711]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2018.09.22-11.53.52:731][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.004441s)
+[2018.09.22-11.53.52:753][711]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b31828db0, Size=16
+[2018.09.22-11.53.52:835][711]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-11.53.52:858][711]LogInit: FAudioDevice initialized.
+[2018.09.22-11.53.52:910][711]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-11.53.52:911][711]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-19.53.52
+[2018.09.22-11.53.52:911][711]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-11.53.52:911][711]LogWorld: Bringing up level for play took: 0.000851
+[2018.09.22-11.53.52:918][711]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes -0.035
+[2018.09.22-11.53.55:465][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.53.55:541][886]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-11.54.18:365][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-11.54.18:379][752]LogSavePackage: Save=10.21ms
+[2018.09.22-11.54.18:380][752]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUD55EF6255467CC1E222B1D7A63C762F0F.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-11.54.18:387][752]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-11.54.19:210][818]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-11.54.19:216][818]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b2cb16b00, Size=24
+[2018.09.22-11.54.19:216][818]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b35142c20, Size=24, Default__Alive_HUD_C Function /Engine/Transient.REINST_Alive_HUD_C_74:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.54.19:217][818]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b351412e8, Size=24, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.54.19:924][855]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-11.54.19:940][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-11.54.19:940][855]PIE: New page: PIE session: Scenes (Sep 23, 2018, 3:54:19 AM)
+[2018.09.22-11.54.19:941][855]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-11.54.19:943][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002407s)
+[2018.09.22-11.54.19:944][855]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-11.54.19:944][855]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.09.22-11.54.19:944][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.003475s)
+[2018.09.22-11.54.19:969][855]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b35142c20, Size=24
+[2018.09.22-11.54.20:054][855]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-11.54.20:077][855]LogInit: FAudioDevice initialized.
+[2018.09.22-11.54.20:129][855]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-11.54.20:130][855]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-19.54.20
+[2018.09.22-11.54.20:130][855]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-11.54.20:130][855]LogWorld: Bringing up level for play took: 0.000886
+[2018.09.22-11.54.20:137][855]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes 1.184
+[2018.09.22-11.54.21:383][936]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-11.54.26:130][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-11.54.26:144][321]LogSavePackage: Save=9.00ms
+[2018.09.22-11.54.26:144][321]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUD580EB166476F25B1AA515899C9E6DDFE.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-11.54.26:151][321]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-11.54.28:376][498]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-11.54.28:381][498]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b351412e8, Size=24
+[2018.09.22-11.54.28:381][498]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b31d536b8, Size=24, Default__Alive_HUD_C Function /Engine/Transient.REINST_Alive_HUD_C_78:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.54.28:383][498]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b3646d090, Size=16, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.54.39:573][401]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-11.54.39:578][401]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b3646d090, Size=16
+[2018.09.22-11.54.39:578][401]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b3646d090, Size=16, Alive_HUD_C_29 Function /Engine/Transient.REINST_Alive_HUD_C_82:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.54.39:579][401]LogBlueprint: Error: [Compiler Alive_HUD] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2018.09.22-11.54.39:580][401]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b31c5c2c8, Size=24, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.54.39:721][401]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b31d536b8, Size=24
+[2018.09.22-11.54.39:728][401]LogBlueprint: Warning: [Compiler Alive_HUD] [1075.46] Compile of Alive_HUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 155 ms] (/Game/GameMode/Alive_HUD.Alive_HUD)
+[2018.09.22-11.54.40:240][437]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-11.54.40:256][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-11.54.41:502][437]LogSlate: Window 'Message' being destroyed
+[2018.09.22-11.54.42:438][508]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b3646d090, Size=16
+[2018.09.22-11.54.43:825][508]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.22-11.55.06:324][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-11.55.06:339][345]LogSavePackage: Save=10.34ms
+[2018.09.22-11.55.06:339][345]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUDF651EB6E43CDA7AA303071986516F3A3.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-11.55.06:346][345]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-11.55.06:919][387]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-11.55.06:924][387]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b31c5c2c8, Size=24
+[2018.09.22-11.55.06:924][387]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b34d43c40, Size=24, Default__Alive_HUD_C Function /Engine/Transient.REINST_Alive_HUD_C_86:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.55.06:925][387]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b34d43190, Size=24, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.55.07:699][437]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-11.55.07:715][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-11.55.07:715][437]PIE: New page: PIE session: Scenes (Sep 23, 2018, 3:55:07 AM)
+[2018.09.22-11.55.07:716][437]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-11.55.07:719][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002975s)
+[2018.09.22-11.55.07:720][437]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-11.55.07:720][437]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2018.09.22-11.55.07:720][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.004383s)
+[2018.09.22-11.55.07:742][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b34d43c40, Size=24
+[2018.09.22-11.55.07:829][437]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-11.55.07:853][437]LogInit: FAudioDevice initialized.
+[2018.09.22-11.55.07:909][437]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-11.55.07:911][437]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-19.55.07
+[2018.09.22-11.55.07:911][437]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-11.55.07:911][437]LogWorld: Bringing up level for play took: 0.000773
+[2018.09.22-11.55.07:919][437]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes 0.965
+[2018.09.22-11.55.09:173][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.55.09:265][524]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-11.55.19:668][371]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-11.55.19:670][371]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b34d43190, Size=24
+[2018.09.22-11.55.19:670][371]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b0c5d0700, Size=24, Default__Alive_HUD_C Function /Engine/Transient.REINST_Alive_HUD_C_92:ExecuteUbergraph_Alive_HUD
+[2018.09.22-11.55.20:251][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-11.55.20:262][400]LogSavePackage: Save=5.90ms
+[2018.09.22-11.55.20:262][400]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUD001ABA4D40CF5A08F4F5AA9EC0CB7198.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-11.55.20:268][400]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-11.55.29:333][141]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003ad59f85e8, Size=4, Default__SKEL_Alive_GameModeBase_C Function /Game/GameMode/Alive_GameModeBase.SKEL_Alive_GameModeBase_C:ExecuteUbergraph_Alive_GameModeBase
+[2018.09.22-11.55.44:812][416]BlueprintLog: New page: Compile Alive_GameModeBase
+[2018.09.22-11.55.44:814][416]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003ad59f85e8, Size=4
+[2018.09.22-11.55.44:815][416]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003abd3b0d30, Size=4, Default__SKEL_Alive_GameModeBase_C Function /Engine/Transient.REINST_SKEL_Alive_GameModeBase_C_96:ExecuteUbergraph_Alive_GameModeBase
+[2018.09.22-11.55.44:819][416]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003ae4c9cb38, Size=24, Default__Alive_GameModeBase_C Function /Game/GameMode/Alive_GameModeBase.Alive_GameModeBase_C:ExecuteUbergraph_Alive_GameModeBase
+[2018.09.22-11.55.45:031][416]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003abd3b0d30, Size=4
+[2018.09.22-11.55.45:031][416]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b0c5d0700, Size=24
+[2018.09.22-11.55.45:367][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameModeBase" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset" SILENT=true
+[2018.09.22-11.55.45:384][438]LogSavePackage: Save=10.25ms
+[2018.09.22-11.55.45:384][438]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameModeBase6D65146349791DD3B998A2905F361251.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset'
+[2018.09.22-11.55.45:390][438]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset
+[2018.09.22-11.55.46:107][496]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-11.55.46:124][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-11.55.46:124][496]PIE: New page: PIE session: Scenes (Sep 23, 2018, 3:55:46 AM)
+[2018.09.22-11.55.46:124][496]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-11.55.46:127][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002659s)
+[2018.09.22-11.55.46:128][496]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-11.55.46:128][496]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2018.09.22-11.55.46:128][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.003837s)
+[2018.09.22-11.55.46:242][496]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-11.55.46:266][496]LogInit: FAudioDevice initialized.
+[2018.09.22-11.55.46:319][496]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-11.55.46:321][496]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-19.55.46
+[2018.09.22-11.55.46:321][496]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-11.55.46:321][496]LogWorld: Bringing up level for play took: 0.000920
+[2018.09.22-11.55.46:328][496]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes -0.625
+[2018.09.22-11.55.47:860][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.55.47:951][602]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-11.56.15:139][811]BlueprintLog: New page: Compile Alive_GameModeBase
+[2018.09.22-11.56.15:141][811]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003ae4c9cb38, Size=24
+[2018.09.22-11.56.15:141][811]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b1676a0b0, Size=24, Default__Alive_GameModeBase_C Function /Engine/Transient.REINST_Alive_GameModeBase_C_102:ExecuteUbergraph_Alive_GameModeBase
+[2018.09.22-11.56.15:143][811]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b34d53a60, Size=4, Default__Alive_GameModeBase_C Function /Game/GameMode/Alive_GameModeBase.Alive_GameModeBase_C:ExecuteUbergraph_Alive_GameModeBase
+[2018.09.22-11.56.15:916][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameModeBase" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset" SILENT=true
+[2018.09.22-11.56.15:928][855]LogSavePackage: Save=7.21ms
+[2018.09.22-11.56.15:928][855]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameModeBaseA3055F994771E52B5E1850838CF95ED0.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset'
+[2018.09.22-11.56.15:935][855]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset
+[2018.09.22-11.56.23:881][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b1676a0b0, Size=24
+[2018.09.22-11.56.23:884][706]Cmd: MAP LOAD FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.22-11.56.23:885][706]LightingResults: New page: Lighting Build
+[2018.09.22-11.56.23:886][706]LoadErrors: New page: Loading map: Scenes.umap
+[2018.09.22-11.56.23:887][706]MapCheck: New page: Map Check
+[2018.09.22-11.56.23:887][706]LightingResults: New page: Lighting Build
+[2018.09.22-11.56.23:941][706]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-11.56.23:944][706]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.22-11.56.23:984][706]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.22-11.56.24:084][706]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 99.85ms to complete.
+[2018.09.22-11.56.24:086][706]LogFileHelpers: Loading map 'Scenes' took 0.204
+[2018.09.22-11.56.24:094][706]LoadErrors: Error: /Game/Scenes : Failed import for MapBuildDataRegistry /Game/Scenes_BuiltData.Scenes_BuiltData Referenced by export Level /Game/Scenes.Scenes:PersistentLevel
+[2018.09.22-11.56.26:849][945]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.22-11.56.29:082][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.57.07:465][827]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.22-11.57.07:645][827]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-11.57.09:066][962]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.22-11.57.11:700][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-11.57.15:337][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-11.57.16:531][548]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.22-11.57.16:718][549]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ShangdaWusAlive
+[2018.09.22-11.57.16:718][549]LogTemp: CWD: E:\UE\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.22-11.57.16:718][549]LogTemp: Initial Dir: E:\UE\UE_4.19
+[2018.09.22-11.57.16:718][549]LogTemp: Env CWD: E:\UE\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.22-11.57.16:718][549]LogTemp: BranchPath = ALICE/E/UE/UE_4.19/Engine/Binaries --- GameBranchPath = ALICE/E/UE/UE_4.19/Engine/Binaries
+[2018.09.22-11.57.16:718][549]LogTemp: MATCHED-Provision:,File:,Cert:
+[2018.09.22-11.57.26:660][239]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.22-11.57.26:666][239]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.22-11.57.27:255][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.57.27:784][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.57.27:844][347]LogSavePackage: Save=26.56ms
+[2018.09.22-11.57.27:844][347]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes45C050684AF50DB570DC30943EC0D7FC.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.57.27:846][347]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.57.30:228][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.57.45:800][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.22-11.57.47:508][193]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.22-11.57.48:261][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.58.23:590][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.58.23:646][577]LogSavePackage: Save=23.85ms
+[2018.09.22-11.58.23:646][577]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/ScenesFB743B1B47663E9272A3F383EC6EB189.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.58.23:649][577]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.58.24:323][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.58.24:405][643]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-11.58.24:422][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-11.58.24:422][643]PIE: New page: PIE session: Scenes (Sep 23, 2018, 3:58:24 AM)
+[2018.09.22-11.58.24:422][643]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-11.58.24:424][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002502s)
+[2018.09.22-11.58.24:425][643]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-11.58.24:425][643]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2018.09.22-11.58.24:425][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.003614s)
+[2018.09.22-11.58.24:545][643]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-11.58.24:570][643]LogInit: FAudioDevice initialized.
+[2018.09.22-11.58.24:624][643]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-11.58.24:625][643]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-19.58.24
+[2018.09.22-11.58.24:626][643]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-11.58.24:626][643]LogWorld: Bringing up level for play took: 0.000749
+[2018.09.22-11.58.24:632][643]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes -0.321
+[2018.09.22-11.58.26:703][796]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-11.58.27:803][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.58.44:030][211]LogSlate: Window 'Select Path' being destroyed
+[2018.09.22-11.58.44:452][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.58.44:683][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.58.44:735][274]LogSavePackage: Save=22.43ms
+[2018.09.22-11.58.44:735][274]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes3A67DFD943AB97B8FBC990A9202F0683.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.58.44:742][274]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.58.45:066][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.58.45:560][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.58.45:610][321]LogSavePackage: Save=22.30ms
+[2018.09.22-11.58.45:610][321]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes405341F048FE66463F3DDFB92CF2B375.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.58.45:613][321]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.58.45:630][321]LogFileHelpers: Saving map 'Scenes' took 0.165
+[2018.09.22-11.58.48:794][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-11.58.51:119][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-11.59.04:247][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.59.04:282][677]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b3e3e49b8, Size=24, Default__Scenes_C Function /Game/Scenes.Scenes_C:ExecuteUbergraph_Scenes
+[2018.09.22-11.59.04:319][677]LogSavePackage: Save=42.58ms
+[2018.09.22-11.59.04:319][677]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes0A41DD2B4E61967F98A1D6B9E0A36577.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.59.04:326][677]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.59.04:343][677]LogFileHelpers: Saving map 'Scenes' took 0.195
+[2018.09.22-11.59.04:832][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.59.04:908][715]BlueprintLog: New page: Compile Scenes
+[2018.09.22-11.59.04:913][715]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b3e3e49b8, Size=24
+[2018.09.22-11.59.04:913][715]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b038b6d40, Size=24, Scenes_C_0 Function /Engine/Transient.REINST_Scenes_C_112:ExecuteUbergraph_Scenes
+[2018.09.22-11.59.04:914][715]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b038b7a78, Size=24, Default__Scenes_C Function /Game/Scenes.Scenes_C:ExecuteUbergraph_Scenes
+[2018.09.22-11.59.05:569][751]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-11.59.05:585][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-11.59.05:586][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-11.59.05:586][751]PIE: New page: PIE session: Scenes (Sep 23, 2018, 3:59:05 AM)
+[2018.09.22-11.59.05:586][751]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-11.59.05:589][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002903s)
+[2018.09.22-11.59.05:590][751]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-11.59.05:590][751]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.09.22-11.59.05:590][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.003943s)
+[2018.09.22-11.59.05:618][751]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b038b6d40, Size=24
+[2018.09.22-11.59.05:719][751]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-11.59.05:744][751]LogInit: FAudioDevice initialized.
+[2018.09.22-11.59.05:798][751]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-11.59.05:799][751]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-19.59.05
+[2018.09.22-11.59.05:799][751]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-11.59.05:799][751]LogWorld: Bringing up level for play took: 0.000777
+[2018.09.22-11.59.05:807][751]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes 0.853
+[2018.09.22-11.59.05:807][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-11.59.08:600][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.59.09:233][992]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-11.59.09:246][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-11.59.09:278][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-11.59.14:537][427]BlueprintLog: New page: Compile Scenes
+[2018.09.22-11.59.14:539][427]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b038b7a78, Size=24
+[2018.09.22-11.59.14:539][427]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b03991ba0, Size=24, Default__Scenes_C Function /Engine/Transient.REINST_Scenes_C_116:ExecuteUbergraph_Scenes
+[2018.09.22-11.59.14:540][427]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b3195f7f0, Size=4, Default__Scenes_C Function /Game/Scenes.Scenes_C:ExecuteUbergraph_Scenes
+[2018.09.22-11.59.15:177][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.59.15:205][457]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b03991ba0, Size=24
+[2018.09.22-11.59.15:210][457]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b3195f7f0, Size=4
+[2018.09.22-11.59.15:210][457]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b3195f7f0, Size=4, Default__Scenes_C Function /Engine/Transient.REINST_Scenes_C_120:ExecuteUbergraph_Scenes
+[2018.09.22-11.59.15:212][457]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b3195fc50, Size=4, Default__Scenes_C Function /Game/Scenes.Scenes_C:ExecuteUbergraph_Scenes
+[2018.09.22-11.59.15:340][457]LogSavePackage: Save=131.18ms
+[2018.09.22-11.59.15:340][457]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes09C37A47470B3A182316FD8CF757A8A4.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.59.15:347][457]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.59.15:363][457]LogFileHelpers: Saving map 'Scenes' took 0.282
+[2018.09.22-11.59.15:448][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.59.21:742][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.59.22:534][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-11.59.22:576][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b3195f7f0, Size=4
+[2018.09.22-11.59.22:583][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b3195fc50, Size=4
+[2018.09.22-11.59.22:583][950]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b2220ed50, Size=4, Default__Scenes_C Function /Engine/Transient.REINST_Scenes_C_124:ExecuteUbergraph_Scenes
+[2018.09.22-11.59.22:584][950]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b2220eda0, Size=4, Default__Scenes_C Function /Game/Scenes.Scenes_C:ExecuteUbergraph_Scenes
+[2018.09.22-11.59.22:705][950]LogSavePackage: Save=125.07ms
+[2018.09.22-11.59.22:705][950]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/ScenesA0F4103B47FC72BFB6B9E4B08569283D.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-11.59.22:712][950]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-11.59.23:721][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-11.59.23:814][ 56]MapCheck: New page: Map Check
+[2018.09.22-11.59.23:828][ 56]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.22-11.59.23:828][ 56]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.22-11.59.23:863][ 56]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b2220ed50, Size=4
+[2018.09.22-11.59.23:880][ 56]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.09.22-11.59.23:890][ 56]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-11.59.23:890][ 56]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.09.22-11.59.26:312][ 56]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-11.59.26:312][ 56]TextureStreamingBuild: Display: Compiling optional shaders took 2.444 seconds.
+[2018.09.22-11.59.26:329][ 56]LogLevel: Display: Export Material TexCoord Scales took 0.017 seconds.
+[2018.09.22-11.59.26:335][ 56]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2018.09.22-11.59.26:359][ 56]LightingResults: New page: Lighting Build - Sep 23, 2018, 3:59:26 AM
+[2018.09.22-11.59.26:666][ 56]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.22-11.59.27:034][ 56]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.22-11.59.27:101][ 56]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.22-11.59.29:499][ 56]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.22-11.59.29:499][ 56]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12468
+[2018.09.22-11.59.33:678][ 56]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.09.22-11.59.33:678][ 56]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.22-11.59.33:678][ 56]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.22-11.59.33:678][ 56]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.22-11.59.33:678][ 56]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.22-11.59.33:678][ 56]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.22-11.59.34:334][ 56]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.22-11.59.34:334][ 56]MapCheck: New page: Scenes - Sep 23, 2018, 3:59:34 AM
+[2018.09.22-11.59.34:433][ 56]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 98.948ms to complete.
+[2018.09.22-11.59.34:456][ 56]LogEditorBuildUtils: Build time 0:10
+[2018.09.22-11.59.34:466][ 56]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.09.22-11.59.34:474][ 56]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.09.22-11.59.34:484][ 56]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.22-11.59.34:524][ 57]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.09.22-11.59.34:533][ 57]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.22-11.59.34:533][ 57]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.09.22-11.59.34:547][ 57]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.22-11.59.41:258][ 68]Job is a success!
+[2018.09.22-11.59.41:702][ 69]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.049s
+[2018.09.22-11.59.41:702][ 69]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.22-11.59.41:702][ 69]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2018.09.22-11.59.41:702][ 69]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.22-11.59.41:702][ 69]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2018.09.22-11.59.41:702][ 69]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2018.09.22-11.59.41:702][ 69]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.09.22-11.59.42:017][ 69]Lightmass on ALICE: 1.67 sec total, 151 ms importing, 6 ms setup, 173 ms photons, 916 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 3.63 sec total, 94 ms processing.
+[2018.09.22-11.59.42:058][ 69]LogStaticLightingSystem: Illumination: 15.3 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.09.22-11.59.42:059][ 69]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.09.22-11.59.42:059][ 69]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.09.22-11.59.42:674][ 69]DumpUnbuiltLightIteractions
+[2018.09.22-11.59.42:674][ 69]Lights with unbuilt interactions: 0
+[2018.09.22-11.59.42:674][ 69]
+[2018.09.22-11.59.42:674][ 69]Primitives with unbuilt interactions: 0
+[2018.09.22-11.59.42:765][ 70]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.22-11.59.42:765][ 70]MapCheck: New page: Scenes - Sep 23, 2018, 3:59:42 AM
+[2018.09.22-11.59.42:876][ 70]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.998ms to complete.
+[2018.09.22-11.59.44:216][ 74]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.22-11.59.48:534][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-12.00.48:812][314]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.22-12.00.48:819][314]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.09.22-12.00.52:968][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-12.00.53:001][617]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b2220eda0, Size=4
+[2018.09.22-12.00.53:001][617]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b58118278, Size=4, Default__Scenes_C Function /Engine/Transient.REINST_Scenes_C_128:ExecuteUbergraph_Scenes
+[2018.09.22-12.00.53:002][617]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b58118930, Size=4, Default__Scenes_C Function /Game/Scenes.Scenes_C:ExecuteUbergraph_Scenes
+[2018.09.22-12.00.53:127][617]LogSavePackage: Save=128.33ms
+[2018.09.22-12.00.53:127][617]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/ScenesFC17070B4A72F17011CC5498A41651CE.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-12.00.53:133][617]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-12.00.53:150][617]LogFileHelpers: Saving map 'Scenes' took 0.278
+[2018.09.22-12.00.57:297][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UI_Main" FILE="../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset" SILENT=true
+[2018.09.22-12.00.57:329][915]LogSavePackage: Save=25.36ms
+[2018.09.22-12.00.57:329][915]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/UI_MainC8782D6B454DB06B17201EB1AD395E94.tmp' to '../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset'
+[2018.09.22-12.00.57:333][915]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset
+[2018.09.22-12.01.02:475][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UI_Main" FILE="../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset" SILENT=true
+[2018.09.22-12.01.02:491][177]LogSavePackage: Save=10.68ms
+[2018.09.22-12.01.02:491][177]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/UI_Main98DA06324E890CC30C25309C1480FE00.tmp' to '../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset'
+[2018.09.22-12.01.02:494][177]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/UMG/UI_Main.uasset
+[2018.09.22-12.01.20:933][334]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b3c439498, Size=4, Default__SKEL_Alive_HUD_C Function /Game/GameMode/Alive_HUD.SKEL_Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.01.44:421][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-12.01.44:436][945]LogSavePackage: Save=8.22ms
+[2018.09.22-12.01.44:436][945]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUDEECDCE7249BB02247B9226A269096985.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-12.01.44:443][945]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-12.01.45:629][ 23]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-12.01.45:656][ 23]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.01.45:656][ 23]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.22-12.01.45:659][ 23]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b3c439498, Size=4
+[2018.09.22-12.01.45:659][ 23]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b07471cb8, Size=4, Default__SKEL_Alive_HUD_C Function /Engine/Transient.REINST_SKEL_Alive_HUD_C_132:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.01.45:659][ 23]LogPlayLevel: [PlayLevel] Compiling Alive_HUD before play...
+[2018.09.22-12.01.45:662][ 23]LogBlueprint: Error: [Compiler Alive_HUD] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2018.09.22-12.01.45:663][ 23]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b1643eec0, Size=24, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.01.45:663][ 23]LogBlueprint: Warning: [Compiler Alive_HUD] [1501.40] Compile of Alive_HUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 4 ms] (/Game/GameMode/Alive_HUD.Alive_HUD)
+[2018.09.22-12.01.45:790][ 23]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b07471cb8, Size=4
+[2018.09.22-12.01.45:790][ 23]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b58118278, Size=4
+[2018.09.22-12.01.45:790][ 23]LogPlayLevel: PlayLevel: Blueprint regeneration took 134 ms (1 blueprints)
+[2018.09.22-12.01.45:791][ 23]BlueprintLog: Blueprint Alive_HUD failed to compile
+[2018.09.22-12.01.48:469][ 23]LogSlate: Window 'Message' being destroyed
+[2018.09.22-12.01.49:540][ 87]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-12.01.49:545][ 87]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b1643eec0, Size=24
+[2018.09.22-12.01.49:545][ 87]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b5912ab00, Size=24, Default__Alive_HUD_C Function /Engine/Transient.REINST_Alive_HUD_C_138:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.01.49:546][ 87]LogBlueprint: Error: [Compiler Alive_HUD] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2018.09.22-12.01.49:547][ 87]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b5912a758, Size=24, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.01.49:674][ 87]LogBlueprint: Warning: [Compiler Alive_HUD] [1505.41] Compile of Alive_HUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 133 ms] (/Game/GameMode/Alive_HUD.Alive_HUD)
+[2018.09.22-12.01.57:590][614]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-12.01.57:595][614]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b5912a758, Size=24
+[2018.09.22-12.01.57:596][614]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b245e4ee0, Size=24, Alive_HUD_C_42 Function /Engine/Transient.REINST_Alive_HUD_C_142:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.01.57:598][614]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b245e51e0, Size=24, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.01.57:717][614]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b5912ab00, Size=24
+[2018.09.22-12.01.58:360][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-12.01.58:375][648]LogSavePackage: Save=9.75ms
+[2018.09.22-12.01.58:375][648]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUDA8F50D514DECBFB04431BDAAF3905460.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-12.01.58:382][648]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-12.01.59:134][698]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-12.01.59:151][698]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.01.59:151][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-12.01.59:151][698]PIE: New page: PIE session: Scenes (Sep 23, 2018, 4:01:59 AM)
+[2018.09.22-12.01.59:151][698]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-12.01.59:154][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002980s)
+[2018.09.22-12.01.59:155][698]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-12.01.59:155][698]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2018.09.22-12.01.59:156][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.004206s)
+[2018.09.22-12.01.59:179][698]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b245e4ee0, Size=24
+[2018.09.22-12.01.59:289][698]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-12.01.59:314][698]LogInit: FAudioDevice initialized.
+[2018.09.22-12.01.59:372][698]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-12.01.59:373][698]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-20.01.59
+[2018.09.22-12.01.59:373][698]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-12.01.59:373][698]LogWorld: Bringing up level for play took: 0.000739
+[2018.09.22-12.01.59:381][698]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes 0.427
+[2018.09.22-12.01.59:381][698]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.02:567][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-12.02.02:862][936]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-12.02.02:875][936]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.02:907][936]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.06:938][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-12.02.06:954][251]LogSavePackage: Save=9.93ms
+[2018.09.22-12.02.06:954][251]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUD9A988BF840868903FAAE2D8581C5CBE6.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-12.02.06:961][251]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-12.02.07:562][296]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-12.02.07:567][296]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b245e51e0, Size=24
+[2018.09.22-12.02.07:567][296]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b38aa2890, Size=24, Default__Alive_HUD_C Function /Engine/Transient.REINST_Alive_HUD_C_146:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.02.07:569][296]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b38aa2638, Size=24, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.02.08:330][332]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-12.02.08:347][332]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.08:347][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-12.02.08:347][332]PIE: New page: PIE session: Scenes (Sep 23, 2018, 4:02:08 AM)
+[2018.09.22-12.02.08:347][332]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-12.02.08:350][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002661s)
+[2018.09.22-12.02.08:351][332]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-12.02.08:351][332]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.09.22-12.02.08:351][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.003791s)
+[2018.09.22-12.02.08:373][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b38aa2890, Size=24
+[2018.09.22-12.02.08:484][332]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-12.02.08:510][332]LogInit: FAudioDevice initialized.
+[2018.09.22-12.02.08:562][332]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-12.02.08:563][332]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-20.02.08
+[2018.09.22-12.02.08:564][332]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-12.02.08:564][332]LogWorld: Bringing up level for play took: 0.000824
+[2018.09.22-12.02.08:571][332]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes -0.383
+[2018.09.22-12.02.08:572][332]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.11:641][445]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-12.02.11:659][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.11:692][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.14:692][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-12.02.14:707][561]LogSavePackage: Save=9.47ms
+[2018.09.22-12.02.14:707][561]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUDB60329634830F6C18496A5865FDD167C.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-12.02.14:714][561]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-12.02.15:454][618]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-12.02.15:459][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b38aa2638, Size=24
+[2018.09.22-12.02.15:459][618]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b39654208, Size=24, Default__Alive_HUD_C Function /Engine/Transient.REINST_Alive_HUD_C_150:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.02.15:461][618]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b39654838, Size=24, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.02.16:057][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-12.02.16:071][639]LogSavePackage: Save=9.18ms
+[2018.09.22-12.02.16:071][639]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUDFDB2D0B242928DA31EAA2C8C49417764.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-12.02.16:074][639]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-12.02.45:368][ 91]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-12.02.45:374][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b39654838, Size=24
+[2018.09.22-12.02.45:374][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b4de42248, Size=24, Alive_HUD_C_55 Function /Engine/Transient.REINST_Alive_HUD_C_154:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.02.45:375][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b45ef1918, Size=40, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.02.45:589][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b39654208, Size=24
+[2018.09.22-12.02.46:862][181]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-12.02.46:878][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.46:879][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-12.02.46:879][181]PIE: New page: PIE session: Scenes (Sep 23, 2018, 4:02:46 AM)
+[2018.09.22-12.02.46:879][181]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-12.02.46:882][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003215s)
+[2018.09.22-12.02.46:883][181]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-12.02.46:883][181]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2018.09.22-12.02.46:883][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.004466s)
+[2018.09.22-12.02.46:907][181]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b4de42248, Size=24
+[2018.09.22-12.02.47:020][181]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-12.02.47:046][181]LogInit: FAudioDevice initialized.
+[2018.09.22-12.02.47:102][181]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-12.02.47:103][181]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-20.02.47
+[2018.09.22-12.02.47:103][181]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-12.02.47:103][181]LogWorld: Bringing up level for play took: 0.000875
+[2018.09.22-12.02.47:111][181]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes 0.157
+[2018.09.22-12.02.47:111][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.48:412][261]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-12.02.48:423][261]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.48:452][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.51:254][480]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-12.02.51:271][480]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.51:271][480]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.22-12.02.51:274][480]LogPlayLevel: [PlayLevel] Compiling Alive_HUD before play...
+[2018.09.22-12.02.51:276][480]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b45ef1918, Size=40
+[2018.09.22-12.02.51:277][480]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b0f7a9f80, Size=40, Default__Alive_HUD_C Function /Engine/Transient.REINST_Alive_HUD_C_158:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.02.51:278][480]LogBlueprint: Error: [Compiler Alive_HUD] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.09.22-12.02.51:278][480]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b536be680, Size=32, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.02.51:279][480]LogBlueprint: Warning: [Compiler Alive_HUD] [1567.01] Compile of Alive_HUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 5 ms] (/Game/GameMode/Alive_HUD.Alive_HUD)
+[2018.09.22-12.02.51:406][480]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b0f7a9f80, Size=40
+[2018.09.22-12.02.51:407][480]LogPlayLevel: PlayLevel: Blueprint regeneration took 135 ms (1 blueprints)
+[2018.09.22-12.02.51:407][480]BlueprintLog: Blueprint Alive_HUD failed to compile
+[2018.09.22-12.02.52:748][480]LogSlate: Window 'Message' being destroyed
+[2018.09.22-12.02.52:757][480]PIE: New page: PIE session: Scenes (Sep 23, 2018, 4:02:52 AM)
+[2018.09.22-12.02.52:757][480]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-12.02.52:760][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002972s)
+[2018.09.22-12.02.52:761][480]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-12.02.52:761][480]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2018.09.22-12.02.52:761][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.004014s)
+[2018.09.22-12.02.52:905][480]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-12.02.52:932][480]LogInit: FAudioDevice initialized.
+[2018.09.22-12.02.52:988][480]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-12.02.52:989][480]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-20.02.52
+[2018.09.22-12.02.52:989][480]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-12.02.52:989][480]LogWorld: Bringing up level for play took: 0.000773
+[2018.09.22-12.02.52:997][480]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes 2.043
+[2018.09.22-12.02.52:997][480]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.54:952][605]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-12.02.54:958][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.54:987][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.02.58:285][868]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-12.02.58:290][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b536be680, Size=32
+[2018.09.22-12.02.58:290][868]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b79a39400, Size=32, Default__Alive_HUD_C Function /Engine/Transient.REINST_Alive_HUD_C_162:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.02.58:292][868]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b53561618, Size=24, Default__Alive_HUD_C Function /Game/GameMode/Alive_HUD.Alive_HUD_C:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.02.58:865][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-12.02.58:892][895]LogSavePackage: Save=10.20ms
+[2018.09.22-12.02.58:892][895]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUD5F159A2340B07449A51DC590BDB3EC1B.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-12.02.58:898][895]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-12.03.01:782][138]BlueprintLog: New page: Compile Alive_HUD
+[2018.09.22-12.03.01:784][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b53561618, Size=24
+[2018.09.22-12.03.01:784][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b44a27268, Size=24, Alive_HUD_C_66 Function /Engine/Transient.REINST_Alive_HUD_C_168:ExecuteUbergraph_Alive_HUD
+[2018.09.22-12.03.02:006][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b79a39400, Size=32
+[2018.09.22-12.03.02:380][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_HUD" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset" SILENT=true
+[2018.09.22-12.03.02:391][159]LogSavePackage: Save=5.87ms
+[2018.09.22-12.03.02:391][159]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_HUD9D4C3F944A782D79066A379EF6FE88FB.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset'
+[2018.09.22-12.03.02:398][159]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_HUD.uasset
+[2018.09.22-12.03.59:379][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameModeBase" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset" SILENT=true
+[2018.09.22-12.03.59:396][817]LogSavePackage: Save=9.64ms
+[2018.09.22-12.03.59:396][817]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameModeBaseB7D115FC4992E021C55821930D8046F7.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset'
+[2018.09.22-12.03.59:403][817]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset
+[2018.09.22-12.04.42:857][619]BlueprintLog: New page: Compile Alive_GameModeBase
+[2018.09.22-12.04.42:860][619]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b34d53a60, Size=4
+[2018.09.22-12.04.42:860][619]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b43da7878, Size=4, Default__Alive_GameModeBase_C Function /Engine/Transient.REINST_Alive_GameModeBase_C_172:ExecuteUbergraph_Alive_GameModeBase
+[2018.09.22-12.04.42:861][619]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b43da7078, Size=4, Default__Alive_GameModeBase_C Function /Game/GameMode/Alive_GameModeBase.Alive_GameModeBase_C:ExecuteUbergraph_Alive_GameModeBase
+[2018.09.22-12.04.43:080][619]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b44a27268, Size=24
+[2018.09.22-12.04.43:435][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameModeBase" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset" SILENT=true
+[2018.09.22-12.04.43:448][639]LogSavePackage: Save=7.42ms
+[2018.09.22-12.04.43:448][639]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameModeBaseCE347283498C332E4F55D18B66EA2331.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset'
+[2018.09.22-12.04.43:455][639]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset
+[2018.09.22-12.04.46:970][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-12.04.46:995][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b43da7878, Size=4
+[2018.09.22-12.04.47:004][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b58118930, Size=4
+[2018.09.22-12.04.47:004][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b34d53778, Size=4, Default__Scenes_C Function /Engine/Transient.REINST_Scenes_C_176:ExecuteUbergraph_Scenes
+[2018.09.22-12.04.47:005][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b34d53f30, Size=4, Default__Scenes_C Function /Game/Scenes.Scenes_C:ExecuteUbergraph_Scenes
+[2018.09.22-12.04.47:130][  3]LogSavePackage: Save=128.70ms
+[2018.09.22-12.04.47:131][  3]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes6478BA414DC0BCA9D4BCB397A7998F59.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-12.04.47:137][  3]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-12.04.47:156][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes_BuiltData" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset" SILENT=true
+[2018.09.22-12.04.47:168][  3]LogSavePackage: Save=3.12ms
+[2018.09.22-12.04.47:168][  3]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes_BuiltData5D71A46148A8D894E9DE4BA4A43FAEF8.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset'
+[2018.09.22-12.04.47:174][  3]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset
+[2018.09.22-12.30.07:595][ 64]LogSlate: Window 'Alive_HUD' being destroyed
+[2018.09.22-12.30.07:600][ 64]LogSlate: Window 'Alive_HUD' being destroyed
+[2018.09.22-12.30.08:229][ 64]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.22-12.30.20:455][ 61]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.22-12.30.36:067][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.22-12.30.36:091][578]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b34d53778, Size=4
+[2018.09.22-12.30.36:116][578]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b34d53f30, Size=4
+[2018.09.22-12.30.36:117][578]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b22dcb9a8, Size=4, Default__Scenes_C Function /Engine/Transient.REINST_Scenes_C_180:ExecuteUbergraph_Scenes
+[2018.09.22-12.30.36:118][578]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b22dcba38, Size=4, Default__Scenes_C Function /Game/Scenes.Scenes_C:ExecuteUbergraph_Scenes
+[2018.09.22-12.30.36:247][578]LogSavePackage: Save=132.50ms
+[2018.09.22-12.30.36:247][578]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes6F20B73342DE3555068C7F8AAE7D3277.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes.umap'
+[2018.09.22-12.30.36:254][578]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes.umap
+[2018.09.22-12.30.36:273][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes_BuiltData" FILE="../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset" SILENT=true
+[2018.09.22-12.30.36:285][578]LogSavePackage: Save=3.32ms
+[2018.09.22-12.30.36:285][578]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Scenes_BuiltData7B383D27449AF603439630A00FA816F4.tmp' to '../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset'
+[2018.09.22-12.30.36:288][578]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/Scenes_BuiltData.uasset
+[2018.09.22-12.30.47:805][416]LogSlate: Window 'Alive_HUD' being destroyed
+[2018.09.22-12.30.47:810][416]LogSlate: Window 'Alive_HUD' being destroyed
+[2018.09.22-12.30.50:326][595]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-12.31.21:677][764]BlueprintLog: New page: Compile Alive_GameModeBase
+[2018.09.22-12.31.21:683][764]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b43da7078, Size=4
+[2018.09.22-12.31.21:683][764]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b25e3dec8, Size=4, Default__Alive_GameModeBase_C Function /Engine/Transient.REINST_Alive_GameModeBase_C_184:ExecuteUbergraph_Alive_GameModeBase
+[2018.09.22-12.31.21:685][764]LogUObjectGlobals: Created PersistentFrame Addr=0x0000003b27ee46b8, Size=24, Default__Alive_GameModeBase_C Function /Game/GameMode/Alive_GameModeBase.Alive_GameModeBase_C:ExecuteUbergraph_Alive_GameModeBase
+[2018.09.22-12.31.21:897][764]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b22dcb9a8, Size=4
+[2018.09.22-12.31.23:057][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/Alive_GameModeBase" FILE="../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset" SILENT=true
+[2018.09.22-12.31.23:075][840]LogSavePackage: Save=10.05ms
+[2018.09.22-12.31.23:075][840]LogSavePackage: Moving '../../../../ShangdaWu_s_Alive/Saved/Alive_GameModeBaseAD1D4F724D1A61FD65677390D0B3A5D5.tmp' to '../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset'
+[2018.09.22-12.31.23:082][840]LogSavePackage: Display: Finished SavePackage ../../../../ShangdaWu_s_Alive/Content/GameMode/Alive_GameModeBase.uasset
+[2018.09.22-12.31.24:120][913]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.22-12.31.24:138][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.31.24:139][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-12.31.24:139][913]PIE: New page: PIE session: Scenes (Sep 23, 2018, 4:31:24 AM)
+[2018.09.22-12.31.24:139][913]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scenes
+[2018.09.22-12.31.24:142][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003396s)
+[2018.09.22-12.31.24:144][913]LogAIModule: Creating AISystem for world Scenes
+[2018.09.22-12.31.24:145][913]LogPlayLevel: PIE: World Init took: (0.001606s)
+[2018.09.22-12.31.24:145][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes.Scenes to /Game/UEDPIE_0_Scenes.Scenes (0.005813s)
+[2018.09.22-12.31.24:174][913]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b25e3dec8, Size=4
+[2018.09.22-12.31.24:296][913]LogInit: XAudio2 using '扬声器 (EDIFIER R19U)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-12.31.24:324][913]LogInit: FAudioDevice initialized.
+[2018.09.22-12.31.24:381][913]LogLoad: Game class is 'Alive_GameModeBase_C'
+[2018.09.22-12.31.24:382][913]LogWorld: Bringing World /Game/UEDPIE_0_Scenes.Scenes up for play (max tick rate 0) at 2018.09.22-20.31.24
+[2018.09.22-12.31.24:382][913]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (Alive_GameModeBase_C) to derive from AGameMode, or make both derive from Base
+[2018.09.22-12.31.24:382][913]LogWorld: Bringing up level for play took: 0.000895
+[2018.09.22-12.31.24:390][913]PIE: Play in editor start time for /Game/UEDPIE_0_Scenes -0.564
+[2018.09.22-12.31.24:390][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.31.26:809][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-12.31.26:912][ 47]LogSlate: Window 'ShangdaWu_s_Alive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-12.31.26:925][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.31.26:957][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes.Scenes:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes.Scenes:PersistentLevel.Scenes' with GeneratedClass '/Game/Scenes.Scenes_C' with ClassGeneratedBy '/Game/Scenes.Scenes:PersistentLevel.Scenes'
+[2018.09.22-12.31.27:650][ 93]LogSlate: Window 'Alive_GameModeBase' being destroyed
+[2018.09.22-12.31.27:655][ 93]LogSlate: Window 'Alive_GameModeBase' being destroyed
+[2018.09.22-12.31.28:480][158]LogSlate: Window 'ShangdaWu_s_Alive - Unreal Editor' being destroyed
+[2018.09.22-12.31.28:496][158]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.09.22-12.31.28:975][159]Cmd: QUIT_EDITOR
+[2018.09.22-12.31.30:136][159]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.22-12.31.30:137][159]LogExit: Preparing to exit.
+[2018.09.22-12.31.31:179][159]LogDirectoryWatcher: A directory notification for 'E:/UE/ShangdaWu_s_Alive/Content/' was aborted.
+[2018.09.22-12.31.31:310][159]LogExit: Editor shut down
+[2018.09.22-12.31.31:343][159]LogExit: Transaction tracking system shut down
+[2018.09.22-12.31.31:348][159]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b27ee46b8, Size=24
+[2018.09.22-12.31.31:348][159]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b00f65070, Size=4
+[2018.09.22-12.31.31:348][159]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b22dcba38, Size=4
+[2018.09.22-12.31.31:353][159]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b07857988, Size=4
+[2018.09.22-12.31.31:353][159]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000003b07857980, Size=4
+[2018.09.22-12.31.31:501][159]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.09.22-12.31.31:501][159]LogDirectoryWatcher: A directory notification for '../../../../ShangdaWu_s_Alive/Content/' was aborted.
+[2018.09.22-12.31.31:501][159]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.09.22-12.31.31:501][159]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.09.22-12.31.31:501][159]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.09.22-12.31.31:501][159]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.09.22-12.31.31:501][159]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.09.22-12.31.31:501][159]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.09.22-12.31.31:730][159]LogExit: Object subsystem successfully closed.
+[2018.09.22-12.31.31:753][159]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.22-12.31.31:762][159]LogD3D11RHI: Shutdown
+[2018.09.22-12.31.31:762][159]LogD3D11RHI: CleanupD3DDevice
+[2018.09.22-12.31.31:806][159]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.22-12.31.31:849][159]LogModuleManager: Shutting down and abandoning module SequencerWidgets (584)
+[2018.09.22-12.31.31:849][159]LogModuleManager: Shutting down and abandoning module BlueprintGraph (582)
+[2018.09.22-12.31.31:849][159]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2018.09.22-12.31.31:856][159]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (578)
+[2018.09.22-12.31.31:856][159]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.09.22-12.31.31:856][159]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2018.09.22-12.31.31:856][159]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.09.22-12.31.31:867][159]LogDirectoryWatcher: A directory notification for 'E:/UE/UE_4.19/FeaturePacks/' was aborted.
+[2018.09.22-12.31.31:867][159]LogDirectoryWatcher: A directory notification for 'E:/UE/UE_4.19/Enterprise/FeaturePacks/' was aborted.
+[2018.09.22-12.31.31:875][159]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.09.22-12.31.31:875][159]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.09.22-12.31.31:875][159]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.09.22-12.31.31:875][159]LogDirectoryWatcher: A directory notification for 'E:/UE/ShangdaWu_s_Alive/Content/Collections/' was aborted.
+[2018.09.22-12.31.31:875][159]LogDirectoryWatcher: A directory notification for 'E:/UE/ShangdaWu_s_Alive/Content/Developers/Administrator/Collections/' was aborted.
+[2018.09.22-12.31.31:875][159]LogDirectoryWatcher: A directory notification for 'E:/UE/ShangdaWu_s_Alive/Saved/Collections/' was aborted.
+[2018.09.22-12.31.31:875][159]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (564)
+[2018.09.22-12.31.31:875][159]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.09.22-12.31.31:875][159]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.09.22-12.31.31:875][159]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.09.22-12.31.31:875][159]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.09.22-12.31.31:875][159]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.09.22-12.31.31:875][159]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.09.22-12.31.31:876][159]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.09.22-12.31.31:877][159]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.09.22-12.31.31:883][159]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.09.22-12.31.31:883][159]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.09.22-12.31.31:883][159]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.09.22-12.31.31:883][159]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.09.22-12.31.31:883][159]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.09.22-12.31.31:969][159]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.09.22-12.31.31:970][159]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.09.22-12.31.31:971][159]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.09.22-12.31.31:971][159]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.09.22-12.31.31:971][159]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.09.22-12.31.31:971][159]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.09.22-12.31.31:971][159]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.09.22-12.31.31:971][159]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.09.22-12.31.31:971][159]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.09.22-12.31.32:016][159]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.09.22-12.31.32:016][159]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.09.22-12.31.32:016][159]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.09.22-12.31.32:016][159]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.09.22-12.31.32:016][159]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.09.22-12.31.32:016][159]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.09.22-12.31.32:016][159]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.09.22-12.31.32:016][159]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.09.22-12.31.32:017][159]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.09.22-12.31.32:017][159]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.09.22-12.31.32:030][159]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.09.22-12.31.32:031][159]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.09.22-12.31.32:032][159]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.09.22-12.31.32:032][159]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.09.22-12.31.32:032][159]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.09.22-12.31.32:032][159]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.09.22-12.31.32:033][159]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.09.22-12.31.32:033][159]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.09.22-12.31.32:034][159]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.09.22-12.31.32:034][159]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.09.22-12.31.32:034][159]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.09.22-12.31.32:034][159]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.09.22-12.31.32:034][159]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.09.22-12.31.32:034][159]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.09.22-12.31.32:034][159]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.09.22-12.31.32:035][159]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.09.22-12.31.32:035][159]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.09.22-12.31.32:035][159]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.09.22-12.31.32:035][159]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.09.22-12.31.32:035][159]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.09.22-12.31.32:035][159]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.09.22-12.31.32:087][159]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.09.22-12.31.32:093][159]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.09.22-12.31.32:093][159]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.09.22-12.31.32:093][159]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.09.22-12.31.32:093][159]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.09.22-12.31.32:094][159]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.09.22-12.31.32:095][159]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.09.22-12.31.32:095][159]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.09.22-12.31.32:095][159]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.09.22-12.31.32:095][159]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.09.22-12.31.32:095][159]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.09.22-12.31.32:096][159]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.09.22-12.31.32:096][159]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.09.22-12.31.32:096][159]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.09.22-12.31.32:096][159]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.09.22-12.31.32:197][159]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.09.22-12.31.32:298][159]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.09.22-12.31.32:298][159]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.09.22-12.31.32:298][159]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.09.22-12.31.32:298][159]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.09.22-12.31.32:298][159]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.09.22-12.31.32:298][159]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.09.22-12.31.32:300][159]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.09.22-12.31.32:300][159]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.09.22-12.31.32:301][159]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.09.22-12.31.32:301][159]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.09.22-12.31.32:301][159]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.09.22-12.31.32:305][159]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.09.22-12.31.32:305][159]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.09.22-12.31.32:305][159]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.09.22-12.31.32:305][159]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.09.22-12.31.32:560][159]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.09.22-12.31.32:561][159]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.09.22-12.31.32:561][159]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.09.22-12.31.32:561][159]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.09.22-12.31.32:567][159]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.09.22-12.31.32:567][159]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.09.22-12.31.32:567][159]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.09.22-12.31.32:567][159]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.09.22-12.31.32:567][159]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.09.22-12.31.32:567][159]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.09.22-12.31.32:567][159]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.09.22-12.31.32:567][159]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.09.22-12.31.32:568][159]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.09.22-12.31.32:571][159]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.09.22-12.31.32:572][159]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.09.22-12.31.32:583][159]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.09.22-12.31.32:656][159]LogDerivedDataCache: Shutdown
+[2018.09.22-12.31.32:656][159]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.09.22-12.31.32:656][159]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.09.22-12.31.32:657][159]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.09.22-12.31.32:658][159]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.09.22-12.31.32:659][159]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.09.22-12.31.32:660][159]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.09.22-12.31.32:660][159]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.09.22-12.31.32:660][159]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.09.22-12.31.32:660][159]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.22-12.31.32:660][159]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB597EC32-4FCB-98B8-38BE-959550072C72%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=b1a557ee4056b4725f3ce0a33896b51f%7Cdfb84846bd18458ea4123b3e7e2ad85b%7C4cb1f5fc-8b32-4dc3-b3a8-b29020f1bfe9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.22-12.31.32:686][159]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.09.22-12.31.32:723][159]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.22-12.31.32:723][159]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.22-12.31.32:723][159]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.22-12.31.32:723][159]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.22-12.31.32:724][159]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.22-12.31.32:724][159]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.22-12.31.32:724][159]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.22-12.31.32:740][159]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.22-12.31.32:740][159]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.22-12.31.32:740][159]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.22-12.31.32:740][159]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.22-12.31.32:740][159]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.22-12.31.32:740][159]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.22-12.31.32:740][159]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.22-12.31.32:740][159]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.22-12.31.32:740][159]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.22-12.31.32:740][159]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.22-12.31.32:741][159]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.22-12.31.32:745][159]LogExit: Exiting.
+[2018.09.22-12.31.32:786][159]Log file closed, 09/22/18 20:31:32
